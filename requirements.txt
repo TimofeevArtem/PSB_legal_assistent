@@ -1,0 +1,2 @@
+python-docx==1.2.0
+tiktoken==0.12.0
